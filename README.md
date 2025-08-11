@@ -5,6 +5,8 @@ This project uses **Pinecone** for vector database storage and **Groq's LLaMA 3 
 
 ⚠️ **Disclaimer:** This chatbot is for informational purposes only. It is **not** a substitute for professional medical advice, diagnosis, or treatment.
 
+![Image](https://github.com/user-attachments/assets/3180a1c6-2a67-464f-ad21-3f1eef7e9682)
+
 ## 📌 Features
 
 - **Natural Language Understanding** – Chat in plain language and get accurate responses.
